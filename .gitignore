@@ -1,0 +1,8 @@
+# We don't need to push node_modules to github because we anyway pushing package.josn & package-lock.json files. Even if we
+# delete node_modules folder, we can recreate it by just doing npm install because we have the exact version of the files in
+# package-lock.json file
+
+/node_modules
+/dist
+.parcel-cache
+/coverage

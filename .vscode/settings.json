@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "Default Dark+",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
